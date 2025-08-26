@@ -24,13 +24,13 @@ The UI is responsive and looks good on both desktop and mobile devices.
 ---
 
 ## 🚀 Getting Started
-1. Clone the repo
+1. Clone the repo<br/>
 git clone https://github.com/your-username/random-joke-generator.git
 
-2. Navigate into the project folder
+2. Navigate into the project folder<br/>
 cd random-joke-generator
 
-3. Install dependencies
+3. Install dependencies<br/>
 npm install
 
 ---
