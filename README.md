@@ -50,7 +50,8 @@ random-joke-generator/
 
 ## 🌐 Live Demo
 
-🔗 Click here to see live demo
+🔗 Click here to see live demo :- 
+https://project-random-joke-generator.netlify.app/
 
 
 
