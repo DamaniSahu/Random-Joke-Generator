@@ -55,5 +55,3 @@ random-joke-generator/
 https://project-random-joke-generator.netlify.app/
 
 
-
->>>>>>> 60243403a244a605c73119fdd19d4a39f9ffa43c
